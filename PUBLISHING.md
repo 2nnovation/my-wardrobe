@@ -8,6 +8,6 @@
 원본 수정은 로컬 Work에서 진행한 뒤 화면과 이미지를 다시 게시합니다.
 
 로컬 갱신 순서: 옷장에서 wardrobe.ps1 validate/rebuild → export_pages.py 실행 → 변경 확인 → 일반 commit/push.
-저장소: https://github.com/2nnovation/my_wardrobe
-예상 사이트: https://2nnovation.github.io/my_wardrobe/
+저장소: https://github.com/2nnovation/my-wardrobe
+사이트: https://2nnovation.github.io/my-wardrobe/
 Pages 설정: main 브랜치, /(root), Deploy from a branch.
