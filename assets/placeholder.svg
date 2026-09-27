@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">이미지 없음</title>
+  <desc id="desc">제품 이미지가 아직 등록되지 않았습니다.</desc>
+  <rect width="900" height="1125" fill="#eeeae2"/>
+  <path d="M301 391c0-86 67-151 149-151s149 65 149 151c0 55-27 104-69 131l176 109v254H194V631l176-109c-42-27-69-76-69-131Z" fill="none" stroke="#a79d8c" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="450" y="982" text-anchor="middle" fill="#6f685d" font-family="Arial, sans-serif" font-size="42">NO IMAGE</text>
+</svg>
